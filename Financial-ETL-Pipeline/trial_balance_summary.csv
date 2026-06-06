@@ -1,0 +1,5 @@
+AccountID,AccountDescription,TotalDebits,TotalCredits,NetBalance
+11,"Land, buildings and other real property",50000.0,0.0,50000.0
+19,"Cash in hand, bank deposits etc.",15000.0,50450.0,-35450.0
+30,"Sales revenue, subject to VAT",0.0,15000.0,-15000.0
+61,Freight and transport costs related to sales,450.0,0.0,450.0

@@ -1,0 +1,75 @@
+AccountID,DescriptionENG
+10,Intangible assets etc
+11,"Land, buildings and other real property"
+12,"Means of transport, fixtures and fittings, machinery etc."
+13,Financial fixed assets
+14,Inventory (stocks) and prepayments to suppliers
+15,Short-term receivables
+16,"VAT (value-added tax), earned public grants etc."
+17,"Prepaid expenses, accrued income etc."
+18,Short-term financial investments
+19,"Cash in hand, bank deposits etc."
+20,"Equity, limited liability companies / Equity, other enterprises (including cooperative societies)"
+21,Provisions for liabilities and charges
+22,Other long-term liabilities
+23,"Short-term convertible loans, bond loans and liabilities to financial institutions"
+24,Trade creditors
+25,Tax payable
+26,Tax withholding and other deductions
+27,Public duties payable
+28,Dividends
+29,Other current liabilities
+30,"Sales revenue, subject to VAT"
+31,"Sales revenue, not subject to VAT"
+32,"Sales revenue, outside of VAT area"
+33,Government fees and taxes related to sales
+34,Public grants/refunds
+35,Unearned income
+36,Rental income
+37,Commission income
+38,Profit on the sale of fixed assets (accounts 380-384 and 388-389). Change in value (accounts 385-389).
+39,Other operational income
+40,Consumption of raw materials and semi-manufactures
+41,Consumption of work in progress
+42,Consumption of finished manufactured goods
+43,Consumption of goods purchased for resale
+45,External services and subcontracts
+46,Other consumption of goods
+49,Other accruals
+50,Wages and salaries to employees
+52,Benefit of employment
+53,Other reportable remuneration
+54,Employers’ national insurance contributions and pension costs
+55,Other expense allowances
+56,Labour remuneration to owners etc.
+57,Public work grant
+58,Public refunds related to labour
+59,Other personnel costs
+60,Depreciation and write-downs
+61,Freight and transport costs related to sales
+62,"Energy, fuel and water related to production"
+63,Costs related to premises
+64,"Rental of machinery, fixtures, fittings etc."
+65,"Tools, fixtures, fittings and operating materials that are not to be capitalised"
+66,Repair and maintenance
+67,External services
+68,"Office costs, printed matter etc."
+69,Telephone and postage etc.
+70,Costs related to means of transport
+71,"Costs and allowances for travel, subsistence, car etc."
+72,Commission charges
+73,"Selling-, advertising- and entertainment expenses"
+74,Membership dues and gifts
+75,"Insurance premiums, guarantee and service costs"
+76,Licence- and patent costs
+77,Other expenses
+78,Losses etc.
+79,Accruals account
+80,Financial income
+81,Financial expenses
+83,Tax on ordinary result
+84,Extraordinary income
+85,Extraordinary expenses
+86,Tax on  extraordinary result
+88,Net profit or loss for the year
+89,Transfers and allocations
